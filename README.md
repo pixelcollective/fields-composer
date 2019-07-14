@@ -15,7 +15,7 @@ Fields Composer is a package intended for use with Sage 10. It provides cached A
 Install via composer:
 
 ```bash
-composer require tinypixel/fields-composer
+composer require tiny-pixel/fields-composer
 ```
 
 ## Usage

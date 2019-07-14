@@ -1,5 +1,5 @@
 {
-  "name": "tinypixel/fields-composer",
+  "name": "tiny-pixel/fields-composer",
   "type": "package",
   "license": "MIT",
   "description": "Streamlines the processing of getting ACF values into Sage 10 view composers",
