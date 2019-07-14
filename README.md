@@ -1,6 +1,6 @@
 # Fields Composer
 
-Fields Composer is a package intended for use with Sage 10.
+Fields Composer is a package intended for use with Sage 10. It provides cached Advanced Custom Fields data to Sage view composers.
 
 ## Requirements
 
