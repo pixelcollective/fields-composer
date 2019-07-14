@@ -1,0 +1,35 @@
+{
+  "name": "tinypixel/fields-composer",
+  "type": "package",
+  "license": "MIT",
+  "description": "Streamlines the processing of getting ACF values into Sage 10 view composers",
+  "authors": [
+    {
+      "name": "Kelly Mears",
+      "email": "kelly@tinypixel.dev"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "sage",
+    "acf"
+  ],
+  "support": {
+    "issues": "https://github.com/pixelcollective/fields-composer/issues"
+  },
+  "autoload": {
+    "psr-4": {
+      "TinyPixel\\FieldsComposer\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.3"
+  },
+  "extra": {
+    "acorn": {
+      "providers": [
+        "TinyPixel\\FieldsComposer\\FieldsComposerServiceProvider"
+      ]
+    }
+  }
+}
